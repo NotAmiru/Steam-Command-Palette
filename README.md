@@ -1,5 +1,7 @@
 # Command Palette
 
+![The command palette open over the Steam library](docs/screenshot.png)
+
 A command palette for the Steam client, as a [Millennium](https://steambrew.app) plugin. Press **Ctrl+K** (changeable) and a search box opens:
 
 - type to fuzzy-search your library (including non-Steam games) and launch a game with Enter, with game icons
