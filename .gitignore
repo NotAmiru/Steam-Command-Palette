@@ -1,0 +1,7 @@
+node_modules/
+.millennium/
+dist/
+.zed/
+*.star
+.millennium/lsp/
+bun.lock
